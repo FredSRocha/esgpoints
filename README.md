@@ -9,7 +9,7 @@
 
 ### 🇧🇷 Virtual Brazil Edition
 
-![APP](https://greenplace.jusblog.com/assets/share/app/1.png)
+![APP](https://esgpoints.jusblog.com/assets/share/app/1.png)
 
 Somos um programa de pontos sustentáveis para quem vende ingressos e voos para eventos reconhecidos mundialmente com a missão de neutralizar emissões de CO2 através de parcerias e conexões ESG. Como parceiros temos o e-commerce "Global Events" e a "Amadeus".
 
